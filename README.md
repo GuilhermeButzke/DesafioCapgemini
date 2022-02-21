@@ -14,7 +14,7 @@ Levando em consideração, você pode efetuar os seguintes passos:
 ## ✔️ Testes Unitários
 Os testes se encontram no diretório [`src/test`](https://github.com/GuilhermeButzke/DesafioCapgemini/tree/main/src/test)
 
-#Desafio de Programação
+# Desafio de Programação
 
 ## [Questão 1](https://github.com/GuilhermeButzke/DesafioCapgemini/blob/main/src/exercicios/Escada.java)
 Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
