@@ -11,8 +11,9 @@ Levando em consideração, você pode efetuar os seguintes passos:
 1. Realizar clone do repositório através do comando `git clone https://github.com/GuilhermeButzke/DesafioCapgemini.git`
 2. No terminal local dentro do diretório do arquivo desejado, executar o comando `javac NomedoArquivo.java`
 
-## ✔️ Testes Unitários
+## ✔️ Testes Unitários e Documentação
 Os testes se encontram no diretório [`src/test`](https://github.com/GuilhermeButzke/DesafioCapgemini/tree/main/src/test)
+A documentação se encontra em cada arquivo Java através dos comentários em código.
 
 # Desafio de Programação
 
