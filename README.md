@@ -1,4 +1,4 @@
-# <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMY7Gbah4wZm4kXXaTsGTfZ3y4ljjJaoxxjMovMf1tFw0tkJIkdT38JXVBYcoXhztYvI&usqp=CAU" style="max-width: 10%"> Desafio Capgemini
+# <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFMY7Gbah4wZm4kXXaTsGTfZ3y4ljjJaoxxjMovMf1tFw0tkJIkdT38JXVBYcoXhztYvI&usqp=CAU" width="50"> Desafio Capgemini
 
 ## 👨‍💻 Tecnologias Utilizadas
 * Java 8
@@ -16,7 +16,7 @@ Os testes se encontram no diretório [`src/test`](https://github.com/GuilhermeBu
 
 # Desafio de Programação
 
-## [Questão 1](https://github.com/GuilhermeButzke/DesafioCapgemini/blob/main/src/exercicios/Escada.java)
+## [Questão 1](https://github.com/GuilhermeButzke/DesafioCapgemini/blob/main/src/exercicios/GeraEscada.java)
 Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
 
 ### Exemplo
